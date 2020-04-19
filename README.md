@@ -1,2 +1,2 @@
 # hello-world
-My First Repository
+This repository serves to the simple, single and unique purpose of writting "Hello World!" codes in each programming languages I've started learning.
